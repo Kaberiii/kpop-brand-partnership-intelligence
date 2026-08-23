@@ -413,9 +413,3 @@ Some records contain:
 * Parent-brand and sub-brand distinctions
 
 Therefore, the findings should be interpreted as insights from the **observed dataset**, rather than definitive estimates of the entire industry.
-
-```md
-![Market Overview](images/page1_market_overview.png)
-```
-
-Do the same for Pages 2 and 3. That will make the repository immediately understandable to a recruiter opening it for the first time.
